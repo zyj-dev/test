@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"@zyjdev/sqlite-operator": "^0.1.4"
+		"@zyjdev/sqlite-operator": "^0.1.6"
 	}
 }

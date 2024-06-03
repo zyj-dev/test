@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@zyjdev/sqlite-operator':
-        specifier: ^0.1.4
-        version: 0.1.4
+        specifier: ^0.1.6
+        version: 0.1.6
 
 packages:
 
@@ -29,8 +29,8 @@ packages:
     resolution: {integrity: sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==}
     engines: {node: '>= 6'}
 
-  '@zyjdev/sqlite-operator@0.1.4':
-    resolution: {integrity: sha512-7WUvegwaz3SLxE1TKyylyPqXGGbQxL5wOtyAJJ0CxE5rJAmNev2Zaiar937HweCbZE9et45KAiw0fTBNlsifZw==}
+  '@zyjdev/sqlite-operator@0.1.6':
+    resolution: {integrity: sha512-ATymuFdD+k4uKPL5Iqb5MhqgRGrBRlqXY6/Mul8m/bVJaiS7ORi0OQ9T+3QGrT1CupQ5572aqoarczW8OPP1Gw==}
 
   abbrev@1.1.1:
     resolution: {integrity: sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==}
@@ -495,7 +495,7 @@ snapshots:
   '@tootallnate/once@1.1.2':
     optional: true
 
-  '@zyjdev/sqlite-operator@0.1.4':
+  '@zyjdev/sqlite-operator@0.1.6':
     dependencies:
       sqlite3: 5.1.7
     transitivePeerDependencies:
